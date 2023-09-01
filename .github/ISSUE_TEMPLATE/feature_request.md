@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: Macro
-labels: wontfix
+labels: ''
 assignees: badges7
 
 ---
