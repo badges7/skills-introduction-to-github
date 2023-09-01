@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: Macri
-labels: good first issue
+title: Macro
+labels: wontfix
 assignees: badges7
 
 ---
