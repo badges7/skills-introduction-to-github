@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Macro
 about: Suggest an idea for this project
 title: Macro
 labels: Macro
