@@ -1,9 +1,9 @@
 ---
-name: Leo
+name: Feature request
 about: Suggest an idea for this project
-title: Macro
-labels: Macro
-assignees: badges7
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
